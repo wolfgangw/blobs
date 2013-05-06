@@ -1,4 +1,0 @@
-testbuild-1.11.49/bin/asdcp-unwrap plaintext_audio.mxf asdcp-unwrap-1.11.49.wav
-RIFF_len is 5184038.
-Will write out a regular wave file.
-Expected to write 46 bytes but wrote 44 bytes for header.
